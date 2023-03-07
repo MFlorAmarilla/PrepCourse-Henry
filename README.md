@@ -1,2 +1,1 @@
-# PrepCourse-Flor
-Este es un repositorio de prueba del modulo2 del preocourse de Henry
+Prueba de ocmo crear un repositorio y clonarlo desde github a mi computadora. 
